@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="maidmining"
+version="1.0.0"
+displayName="Maid Mining Addon"
+authors="YourName"
+description="Allows maids to mine ores automatically."
